@@ -89,3 +89,20 @@
 ![Mockito](https://img.shields.io/badge/Mockito-0DAB76?style=for-the-badge&logo=mockito&logoColor=white)
 
 </p>
+
+## <b>Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/david-ricardo-gracia/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-David%20Ricardo%20Gracia-%2300acee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+</a>
+
+<br>
+
+<a href="mailto:ricargo1946@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-ricargo1946%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
+</a>
+
+</p>
+
