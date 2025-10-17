@@ -31,7 +31,7 @@
 
 <p align="center">
 <!-- Languages & Frameworks -->
-- **Languages**:
+<b>Languages</b><br>:
   
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -51,7 +51,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-<br><br>
+
+<br>
+<br>
 
 <!-- Cloud & DevOps -->
 <b>Cloud & DevOps</b><br>
@@ -61,7 +63,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-<br><br>
+
+<br>
+<br>
 
 <!-- Web Services & APIs -->
 <b>Web Services & APIs</b><br>
