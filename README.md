@@ -35,7 +35,8 @@
     ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 </p>
-## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="25"> <b>Web Services & APIs</b>
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="25"> <b>Web Services & APIs</b>
 <br>
 
 <p align="center">
