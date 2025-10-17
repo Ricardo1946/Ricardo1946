@@ -5,14 +5,18 @@
 </p>
 
 <br>
-<p align="center">
-  <!-- GIF de perfil -->
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="60px" style="vertical-align:middle; border-radius:50%;">
-  
+<p align="center">  
   <!-- Texto animado -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&height=60&lines=Fullstack+Developer;System+Engineer;Always+learning+new+things!" style="vertical-align:middle; margin-left:10px;">
 </p>
 **About me**
+- Fullstack Developer | System Engineer  
+- Passionate about clean code & modern web apps  
+- Always learning new technologies  
+- Curious, proactive & problem solver  
+- Open to collaboration & new challenges
+
+<br><br>
 
 
 
