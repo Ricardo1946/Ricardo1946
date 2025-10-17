@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&height=70&lines=Fullstack+Developer;System+Engineer;Always+learning+new+things!;💻+Coding+enthusiast;🌐+Open+for+collaboration" />
 </p>
 
-<!-- ================= ABOUT ME ================= -->
 <p align="center">
   <picture>
     <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250" style="border-radius:15px; box-shadow: 2px 2px 15px rgba(0,0,0,0.3);">
@@ -16,11 +15,11 @@
 </p>
 
 <p align="left">
-🚀 **Fullstack Developer | System Engineer** <br>
-💡 **Passionate about clean code & modern web apps** <br>
-📚 **Always learning new technologies** <br>
-🧠 **Curious, proactive & problem solver** <br>
-🤝 **Open to collaboration & new challenges**
+🚀 Fullstack Developer | System Engineer <br>
+💡 Passionate about clean code & modern web apps <br>
+📚 Always learning new technologies <br>
+🧠 Curious, proactive & problem solver <br>
+🤝 Open to collaboration & new challenges
 </p>
 
 <hr>
@@ -33,14 +32,14 @@
 <p align="center">
 <!-- Languages & Frameworks -->
 <b>Languages & Frameworks</b><br>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Java EE](https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 <br><br>
 
 <!-- Frontend -->
